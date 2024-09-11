@@ -2,7 +2,7 @@
 
 | Yen Huynh | Mohammed Muhsin Shaik | Peyton Da Silva | Muntasir Mohammed |
 | -- | -- | -- | -- |
-| | | | |
+| <code><img height="300" src="../images/peter.jpg"></code> | <code><img height="300" src="../images/Muhsin.jpg"></code> | <code><img height="300" src="../images/Peyton.jpg"></code> | <code><img height="300" src="../images/Muntasir.jpg"></code> |
 
 Peyton Da Silva – 04106023
 

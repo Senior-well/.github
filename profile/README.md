@@ -1,6 +1,10 @@
 # Team members:
 
-Peyton Da Silva – 041060238
+| Yen Huynh | Mohammed Muhsin Shaik | Peyton Da Silva | Muntasir Mohammed |
+| -- | -- | -- | -- |
+| | | | |
+
+Peyton Da Silva – 04106023
 
 Muntasir Mohammad – 041082744
 

@@ -1,4 +1,18 @@
-<h1 align="center"> Senior Well Team </h1>
+<h2 align="center">Hey @github users 😎</h2>
+<img src="../images/background.png">
+
+## 🤔 Who, What, When, Where?</h2>
+We are from different countries but united by thoughts. Consider ourselves as:
+- Works 25 hours/ day
+- Engineer stress
+- Commit without review
+
+## How to consider a good programmer?
+`If it works, don't touch it`
+
+<br>
+
+<h2 align="center"> SeniorWell's Team </h2>
 
 <table align="center">
   <tr>
@@ -17,7 +31,7 @@
 
 <br>
 
-<h1 align="center">Languages and Tools</h1>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img height="50" src="../images/react.png"> &nbsp;
   <img height="50" src="../images/JavaScript.png"> &nbsp;

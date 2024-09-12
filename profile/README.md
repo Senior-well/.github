@@ -1,4 +1,4 @@
-<h1 align="center"> Team members </h1>
+<h1 align="center"> Senior Well Team </h1>
 
 <table align="center">
   <tr>

@@ -17,4 +17,11 @@
 
 <br>
 
-<h1 align="center">Languages and Technologies</h1>
+<h1 align="center">Languages and Tools</h1>
+<p align="center">
+  <img height="50" src="../images/react.png"> &nbsp;
+  <img height="50" src="../images/JavaScript.png"> &nbsp;
+  <img height="50" src="../images/html.png"> &nbsp;
+  <img height="50" src="../images/css.png"> &nbsp;
+  <img height="50" src="../images/vscode.png"> &nbsp;
+</p>

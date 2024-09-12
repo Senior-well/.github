@@ -1,13 +1,20 @@
 <h1 align="center"> Team members </h1>
 
-| Yen Huynh | Mohammed Muhsin Shaik | Peyton Da Silva | Muntasir Mohammed |
-| -- | -- | -- | -- |
-| <code><img height="200" src="../images/peter.jpg"></code> | <code><img height="200" src="../images/Muhsin.jpg"></code> | <code><img height="200" src="../images/Peyton.jpg"></code> | <code><img height="200" src="../images/Muntasir.jpg"></code> |
+<table align="center">
+  <tr>
+    <td>Yen Huynh</td>
+    <td>Mohammed Muhsin Shaik</td>
+    <td>Peyton Da Silva</td>
+    <td>Muntasir Mohammed</td>
+  </tr>
+  <tr>
+    <td><img height="200" src="../images/peter.jpg"></td>
+    <td><img height="200" src="../images/Muhsin.jpg"></td>
+    <td><img height="200" src="../images/Peyton.jpg"></td>
+    <td><img height="200" src="../images/Muntasir.jpg"></td>
+  </tr>
+</table>
 
-Peyton Da Silva – 04106023
+<br>
 
-Muntasir Mohammad – 041082744
-
-Mohammed Muhsin Shaik – 041078827
-
-Yen Huynh – 041068712
+<h1 align="center">Languages and Technologies</h1>

@@ -63,7 +63,7 @@ If it works, don't touch it
     <td align="center"><img height="200" src="../images/Muntasir.jpg"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/YenHuynh02" style='border: 1px solide red'>Get in touch</a></td>
+    <td align="center"><a href="https://github.com/YenHuynh02">Get in touch</a></td>
     <td align="center"><a href="https://github.com/muhsin308">Get in touch</a></td>
     <td align="center"><a href="https://github.com/PalpaWalker">Get in touch</a></td>
     <td align="center"><a href="https://github.com/moha0988">Get in touch</a></td>

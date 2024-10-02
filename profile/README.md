@@ -32,7 +32,7 @@ If it works, don't touch it
 <table align="center">
   <!-- Yen -->
   <tr>
-    <td><img align= "left" height="200" src="../images/team/peter.jpg"></td>
+    <td align="center"><img height="200" src="../images/team/peter.jpg"></td>
     <td>
       <h1>Yen Huynh</h1>
       <h3>Full Stack & Software Developer </h3>
@@ -49,12 +49,12 @@ If it works, don't touch it
       <a href="https://github.com/PalpaWalker"><img height="40" src="../images/socialMedia/github.png"></a> &nbsp
       <a href="https://www.linkedin.com/in/peyton-da-silva-404369258"><img height="40" src="../images/socialMedia/Linkedin.png"></a>
       </td>
-    <td><img align="right" height="200" src="../images/team/Peyton.jpg"></td>
+    <td align="center"><img height="200" src="../images/team/Peyton.jpg"></td>
   </tr>
 
   <!-- Mohammed -->
   <tr>
-    <td><img align="left" height="200" src="../images/team/Muhsin.jpg"></td>
+    <td align="center"><img height="200" src="../images/team/Muhsin.jpg"></td>
     <td>
       <h1>Mohammed Muhsin Shaik</h1>
       <h3>Full Stack Developer</h3>
@@ -71,7 +71,7 @@ If it works, don't touch it
       <a href="https://github.com/moha0988"><img height="40" src="../images/socialMedia/github.png"></a> &nbsp
       <a href="https://www.linkedin.com/in/muntasir-m-510194255"><img height="40" src="../images/socialMedia/Linkedin.png"></a>
     </td>
-    <td><img align="right" height="200" src="../images/team/Muntasir.jpg"></td>
+    <td align="center"><img height="200" src="../images/team/Muntasir.jpg"></td>
   </tr>
   
 </table>

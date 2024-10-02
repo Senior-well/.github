@@ -66,7 +66,7 @@ If it works, don't touch it
   <!-- Muntasir -->
   <tr>
     <td>
-      <h1>Muntasir Mohammed</h1>
+      <h1>Muntasir Mohammad</h1>
       <h3>Full Stack & Software Designer</h3>
       <a href="https://github.com/moha0988"><img height="40" src="../images/socialMedia/github.png"></a> &nbsp
       <a href="https://www.linkedin.com/in/muntasir-m-510194255"><img height="40" src="../images/socialMedia/Linkedin.png"></a>
